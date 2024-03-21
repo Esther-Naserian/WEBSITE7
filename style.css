@@ -128,6 +128,7 @@ justify-content: center;
 font-size: small;
 }
 #page3{
+    display: grid;
     
 }
 #page5{
@@ -176,8 +177,9 @@ display: grid;
 .img3{
     width: 20%;
 }
-.image12{
-    width: 20%;
+#image12{
+    width: 10px;
+    
 }
 #list{
     display: grid;
@@ -187,6 +189,22 @@ display: grid;
 }
 .lady1{
     width: 40%;
+}
+#text3{
+    font-size: smaller;
+}
+#word{
+font-size: smaller;
+}
+#words2{
+    font-size: smaller;
+}
+#words3{
+    font-size: smaller;
+}
+#page4{
+font-size: smaller;
+height: 10px;
 }
 
 
