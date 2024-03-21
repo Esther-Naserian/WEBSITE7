@@ -1,0 +1,198 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10%;
+}
+#text{
+
+font-size: large;
+}
+#text1{
+margin-left: 50%;
+display: flex;
+gap: 2%;
+}
+.img1{
+border-radius: 10%;
+}
+#text2{
+display: flex;
+justify-content: space-between;
+}
+#text3{
+margin-left: 50%;
+}
+.h2{
+color: rgb(142, 142, 190);
+}
+#page1{
+display: flex;
+justify-content: center;
+
+}
+#page2{
+font-size: large;
+}
+#page3{
+    display: flex;
+    justify-content: space-between;
+}
+#page5{
+width: 50%;
+display: flex;
+justify-content: space-between;
+}
+#page6{
+width: 100px;
+height: 90px;
+}
+#container2{
+    display: flex;
+    justify-content: space-between;
+}
+#container3{
+    display: flex;
+    justify-content: space-between;
+}
+#container4{
+    margin-left: 30%;
+}
+#container6{
+margin-left: 20%;
+font-size: large;
+}
+#container5{
+    display: flex;
+    text-align: center;
+}
+.button4{
+    width: 40px;
+    height: 40px;
+    border-radius: 40%;
+
+}
+#container7{
+display: flex;
+justify-content: space-between;
+}
+#foot{
+margin-left: 60%;
+display: flex;
+}
+#main house{
+    width: 100%;
+}
+@media only screen and (max-width:540px){
+    navbar{
+    
+ #navbar{
+
+
+ }
+    
+
+}
+.button1{
+flex-wrap: wrap;
+}
+#text{
+
+font-size: small;
+}
+#text1{
+
+gap: 2%;
+}
+.img1{
+border-radius: 10%;
+width:20%;
+}
+#text2{
+flex-wrap: wrap;
+justify-content:
+}
+.h2{
+color: rgb(142, 142, 190);
+}
+#page1{
+
+justify-content: center;
+
+}
+#page2{
+font-size: small;
+}
+#page3{
+    
+}
+#page5{
+width: 20%;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+#page6{
+width: 40%;
+height:40%px;
+}
+#container2{
+    display: flex;
+    justify-content: space-between;
+}
+#container3{
+    flex-wrap: wrap;
+}
+#container4{
+    
+}
+#container6{
+font-size: small;
+}
+#container5{
+    
+text-align: center;
+}
+.button4{
+    width: 40px;
+    height: 40px;
+
+}
+#container7{
+flex-wrap: wrap;
+display: grid;
+
+}
+#main house{
+    
+    width: 40%;
+}
+#narbar{
+    flex-wrap: wrap;
+}
+.img3{
+    width: 20%;
+}
+.image12{
+    width: 20%;
+}
+#list{
+    display: grid;
+}
+.vedio1{
+    width: 20%;
+}
+.lady1{
+    width: 40%;
+}
+
+
+
+
+
+
+}
+    
