@@ -205,8 +205,17 @@ font-size: smaller;
 #page4{
 font-size: smaller;
 height: 10px;
+width: 10px;
 }
-
+#words4{
+    font-size: smaller;
+}
+#words5{
+    font-size: smaller;
+}
+#words6{
+font-size: smaller;
+}
 
 
 
